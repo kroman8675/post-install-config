@@ -23,5 +23,8 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Step 4: Configure SLA's and Help Topics
 
 <h2>Configuration Steps</h2>
+- Step 1: Configure Roles, Departments, and Teams
+
+
 
 <br />
