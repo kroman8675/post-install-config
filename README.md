@@ -53,7 +53,7 @@ Click the Agents tab in the Admin panel and then Add New Agent. For the name I p
 
 <img width="962" alt="Screenshot 2025-05-01 at 6 19 51 PM" src="https://github.com/user-attachments/assets/4c3e3b32-a4e0-43b0-b438-72f198ac8e9f" />
 
-Click Access and Select Department, choose SysAdmins. For Select Role choose Admin. The permissions can stay the same, all permission should be selected. For the Teams I made James part of the Online Education Team, click Create.
+Click Access and Select Department, choose SysAdmins. For Select Role choose Admin. All permissions should be selected. For the Teams I made James part of the Online Education Team, click Create.
 
 <img width="953" alt="Screenshot 2025-05-01 at 6 35 44 PM" src="https://github.com/user-attachments/assets/ddd9419f-58e6-4229-8326-ed78f9d79618" />
 
