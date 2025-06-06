@@ -61,7 +61,7 @@ Click Add New Agent. For the name I put Joan Miller, a fake email, and the usern
 
 <img width="1023" alt="Screenshot 2025-05-01 at 6 48 15 PM" src="https://github.com/user-attachments/assets/df8a8075-a9e8-4004-aa60-e2b3e0dd2397" />
 
-Click the Agent Panel at the top right of the screen. Select the Users tab and Click Add User. I have put in a fake email address and for the Full Name I put Adam Baker, Click Add useer.
+Click the Agent Panel at the top right of the screen. Select the Users tab and Click Add User. I have put in a fake email address and for the Full Name I put Adam Baker, Click Add user.
 
 - Step 3: Configure SLA's and Help Topics
 
