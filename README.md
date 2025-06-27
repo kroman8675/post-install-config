@@ -34,7 +34,7 @@ Then click Agents and then Roles. Select Add New Roles, type Admin, and click on
 
 <img width="1182" alt="Screenshot 2025-05-01 at 3 16 44 PM" src="https://github.com/user-attachments/assets/035324db-bbe9-4567-b64c-5ad3d13c1ad2" />
 
-In the Agents tab click Departments. Click Add New Department
+In the Agents tab click Departments. Then click Add New Department
 
 <img width="871" alt="Screenshot 2025-05-01 at 3 26 33 PM" src="https://github.com/user-attachments/assets/05ba494b-65a1-4ffc-8f5b-9ed9cde8320b" />
 
@@ -61,7 +61,7 @@ Click Add New Agent. For the name I put Joan Miller, a fake email, and the usern
 
 <img width="1023" alt="Screenshot 2025-05-01 at 6 48 15 PM" src="https://github.com/user-attachments/assets/df8a8075-a9e8-4004-aa60-e2b3e0dd2397" />
 
-Click the Agent Panel at the top right of the screen. Select the Users tab and Click Add User. I have put in a fake email address and for the Full Name I put Adam Baker, Click Add user.
+Click the Agent Panel at the top right of the screen. Select the Users tab and Click Add User. I put in a fake email address and for the Full Name I put Adam Baker, Click Add user.
 
 - Step 3: Configure SLA's and Help Topics
 
@@ -75,7 +75,7 @@ For the name I put Major, set the Grace Period to 1 hour, and the schedule to 24
 
 <img width="959" alt="Screenshot 2025-05-01 at 7 09 59 PM" src="https://github.com/user-attachments/assets/c1a87c8b-eddc-4f3a-85ef-bf9141b461a9" />
 
-Click Add a New SLA Plan.I put Modereate as the name, set the Grace Period to 4 hours, and the schedule to 24/7. Click Add Plan.
+Click Add a New SLA Plan. I put Modereate as the name, set the Grace Period to 4 hours, and the schedule to 24/7. Click Add Plan.
 
 <img width="957" alt="Screenshot 2025-05-01 at 7 12 26 PM" src="https://github.com/user-attachments/assets/d55d1c2d-6c81-4c7c-bd26-74b0dfba2e77" />
 
