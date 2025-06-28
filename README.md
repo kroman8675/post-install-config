@@ -26,7 +26,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <img width="912" alt="Screenshot 2025-05-01 at 3 04 51 PM" src="https://github.com/user-attachments/assets/b71ae1b5-799f-4ad0-be8a-6c94c0688ef4" />
 
-Get logged in at this link: http://localhost/osTicket/scp/login.php , and go into the admin panel if not already which at the top right.
+Get logged in at this link: http://localhost/osTicket/scp/login.php , and go into the admin panel which is at the top right.
 
 <img width="912" alt="Screenshot 2025-05-01 at 3 04 51 PM" src="https://github.com/user-attachments/assets/3f114afa-bd9e-4e9d-a96d-33078382a6d5" />
 
