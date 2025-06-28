@@ -24,13 +24,19 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 - Step 1: Configure Roles, Departments, and Teams
 
-<img width="912" alt="Screenshot 2025-05-01 at 3 04 51 PM" src="https://github.com/user-attachments/assets/b71ae1b5-799f-4ad0-be8a-6c94c0688ef4" />
+![image](https://github.com/user-attachments/assets/8bb10b05-1e9f-4c22-a33c-7237de8426ee)
+
 
 Get logged in at this link: http://localhost/osTicket/scp/login.php , and go into the admin panel which is at the top right.
 
-<img width="912" alt="Screenshot 2025-05-01 at 3 04 51 PM" src="https://github.com/user-attachments/assets/3f114afa-bd9e-4e9d-a96d-33078382a6d5" />
+<img width="955" alt="Screenshot 2025-06-28 at 7 17 27 PM" src="https://github.com/user-attachments/assets/6099e1d7-a580-4f91-acf1-c81f4ac0de24" />
 
-Then click Agents and then Roles. Select Add New Roles, type Admin, and click on the Permissions tab. In the permissions tab select all the permissions under Tickets, Tasks and Knowledgable. After that click Add Role.
+
+Then click the Agents tab, then Roles and select Add New Roles.
+
+<img width="957" alt="Screenshot 2025-06-28 at 7 15 02 PM" src="https://github.com/user-attachments/assets/d49dbe8a-e3a8-43a6-87c5-16b9986503a6" />
+
+Type Admin for the name and then click on the Permissions tab. In the permissions tab select all the permissions under Tickets, Tasks and Knowledgable. After that click Add Role.
 
 <img width="1182" alt="Screenshot 2025-05-01 at 3 16 44 PM" src="https://github.com/user-attachments/assets/035324db-bbe9-4567-b64c-5ad3d13c1ad2" />
 
