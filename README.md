@@ -146,7 +146,7 @@ Select Help Topics tab and click Add a New Help Topic. Put Password Reset as the
 
 <img width="958" alt="Screenshot 2025-05-01 at 7 36 15 PM" src="https://github.com/user-attachments/assets/4dc0b44c-f07c-4c80-ab72-f35e95c120fe" />
 
-Click the Help Topics and select Add a New Help Topic. This will be out laster topic, put Other as the Topic and the Parent Topic as General Inquiry. Click Add Topic.
+Click the Help Topics and select Add a New Help Topic. This will be out last Help Topic, put Other as the Topic and the Parent Topic as General Inquiry. Click Add Topic. Our Ticketing System is now configured.
 
 
 
