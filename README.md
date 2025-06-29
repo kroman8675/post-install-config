@@ -34,7 +34,8 @@ Get logged in at this link: http://localhost/osTicket/scp/login.php , and go int
 
 Then click the Agents tab, then Roles and select Add New Roles.
 
-<img width="957" alt="Screenshot 2025-06-28 at 7 15 02 PM" src="https://github.com/user-attachments/assets/d49dbe8a-e3a8-43a6-87c5-16b9986503a6" />
+<img width="956" alt="Screenshot 2025-06-28 at 7 23 48 PM" src="https://github.com/user-attachments/assets/2b9f050a-aeaa-4c80-8f1e-3075948ea494" />
+
 
 Type Admin for the name and then click on the Permissions tab. In the permissions tab select all the permissions under Tickets, Tasks and Knowledgable. After that click Add Role.
 
@@ -48,26 +49,66 @@ For the Parent leave it as Top Level Department. I named the Department SysAdmin
 
 <img width="955" alt="Screenshot 2025-05-01 at 5 20 16 PM" src="https://github.com/user-attachments/assets/b3bf5ccb-ab68-435c-b00b-eb6668fe0a62" />
 
-In the Agents tab cick Teams, select Add New Team. I put Online Education as the team name, and select Create Team.
+In the Agents tab click Teams, select Add New Team. I put Online Education for the team name, and select Create Team.
 
 
 - Step 2: Configure Agents and Users
 
-<img width="963" alt="Screenshot 2025-05-01 at 6 13 06 PM" src="https://github.com/user-attachments/assets/ef014e25-bf6e-4d71-97ec-e53e8524847f" />
+<img width="958" alt="Screenshot 2025-06-28 at 7 30 25 PM" src="https://github.com/user-attachments/assets/58ea5679-0342-4531-bbea-c0d7ac7282be" />
 
-Click the Agents tab in the Admin panel and then Add New Agent. For the name I put James Smith, a fake email, and the username James. Click Set Password and uncheck the Send the agent a password reset email, I put in a password for James to use. Uncheck Require Password Change at next Logon, click Set.
+In the Admin panel click the Agents tab and Agent then select Add New Agent. 
+
+<img width="951" alt="Screenshot 2025-06-28 at 7 33 12 PM" src="https://github.com/user-attachments/assets/e0ef9630-e103-4d98-a503-705ea6fb4f28" />
+
+For the name I put James Smith, a fake email, and the username James. 
+
+<img width="964" alt="Screenshot 2025-06-28 at 7 36 04 PM" src="https://github.com/user-attachments/assets/d3d07371-35e7-4310-895a-6bfe54c8c877" />
+
+
+Click Set Password next to the Username and uncheck the Send the agent a password reset email, I put in a password for James to use. Uncheck Require Password Change at next Logon, click Set.
 
 <img width="962" alt="Screenshot 2025-05-01 at 6 19 51 PM" src="https://github.com/user-attachments/assets/4c3e3b32-a4e0-43b0-b438-72f198ac8e9f" />
 
-Click Access and Select Department, choose SysAdmins. For Select Role choose Admin. All permissions should be selected. For the Teams I made James part of the Online Education Team, click Create.
+Click the Access tab and Select Department, choose SysAdmins. For Select Role choose Admin. All permissions should be selected. 
 
-<img width="953" alt="Screenshot 2025-05-01 at 6 35 44 PM" src="https://github.com/user-attachments/assets/ddd9419f-58e6-4229-8326-ed78f9d79618" />
+<img width="957" alt="Screenshot 2025-06-28 at 7 41 22 PM" src="https://github.com/user-attachments/assets/433e4f15-5c68-478d-962f-0e469624bf3b" />
 
-Click Add New Agent. For the name I put Joan Miller, a fake email, and the username Joan. Click Set Password and uncheck the Send the agent a password reset email, I put in a password for Joan to use. Again make sure Require Password Change at next Logon is unchecked, click Set. Click Access and Select Department, choose Support. For Select Role choose Expanded Access. Click Permissions and for users make sure that Delete is unchecked and do the same for Organizations. Make Joan part of the Online Education Team aswell, click Create.
+Select the Teams tab and click Select Team and choose the Online Education Team, click Add then Create.
 
-<img width="1023" alt="Screenshot 2025-05-01 at 6 48 15 PM" src="https://github.com/user-attachments/assets/df8a8075-a9e8-4004-aa60-e2b3e0dd2397" />
 
-Click the Agent Panel at the top right of the screen. Select the Users tab and Click Add User. I put in a fake email address and for the Full Name I put Adam Baker, Click Add user.
+<img width="956" alt="Screenshot 2025-06-28 at 7 45 02 PM" src="https://github.com/user-attachments/assets/63a74d84-4030-4c31-8292-4763f8f45956" />
+
+
+I'm going to create another Agent. Click Add New Agent. For the name I put Joan Miller, a fake email, and the username Joan. 
+
+
+<img width="960" alt="Screenshot 2025-06-28 at 7 47 46 PM" src="https://github.com/user-attachments/assets/bf6b4b71-1362-4d8a-8196-235f52b663e7" />
+
+
+Click Set Password and uncheck the Send the agent a password reset email, I put in a password for Joan to use. Again make sure Require Password Change at next Logon is unchecked, click Set. 
+
+
+<img width="970" alt="Screenshot 2025-06-28 at 7 50 26 PM" src="https://github.com/user-attachments/assets/0bb247f7-2f64-466c-855f-b9d81b12c8cc" />
+
+
+Click the Access tab and for Select Department, choose Support. For Select Role choose Expanded Access. 
+
+
+<img width="1440" alt="Screenshot 2025-06-28 at 7 53 33 PM" src="https://github.com/user-attachments/assets/b7214dcb-34b0-492e-80e5-f714ce38c26a" />
+
+Click Permissions and for users make sure that Delete is unchecked and do the same for Organization. Make Joan part of the Online Education Team aswell, click Create.
+
+
+<img width="960" alt="Screenshot 2025-06-28 at 7 57 54 PM" src="https://github.com/user-attachments/assets/df3f1af9-f27e-4043-8ae2-56f58acdc7d5" />
+
+
+Now let's create a user. To get started click the Agent Panel.
+
+
+<img width="1423" alt="Screenshot 2025-06-28 at 8 00 31 PM" src="https://github.com/user-attachments/assets/5cbc719f-5869-4829-b3b0-ce8fd18bb378" />
+
+
+Select the Users tab and Click Add User. I put in a fake email address and for the Full Name I put Adam Baker, Click Add user.
 
 - Step 3: Configure SLA's and Help Topics
 
