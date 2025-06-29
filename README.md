@@ -27,7 +27,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 ![image](https://github.com/user-attachments/assets/8bb10b05-1e9f-4c22-a33c-7237de8426ee)
 
 
-Get logged in at this link: http://localhost/osTicket/scp/login.php , and go into the admin panel which is at the top right.
+Click the link and log in: http://localhost/osTicket/scp/login.php, and go into the Admin Panel.
 
 <img width="955" alt="Screenshot 2025-06-28 at 7 17 27 PM" src="https://github.com/user-attachments/assets/6099e1d7-a580-4f91-acf1-c81f4ac0de24" />
 
@@ -37,7 +37,7 @@ Then click the Agents tab, then Roles and select Add New Roles.
 <img width="956" alt="Screenshot 2025-06-28 at 7 23 48 PM" src="https://github.com/user-attachments/assets/2b9f050a-aeaa-4c80-8f1e-3075948ea494" />
 
 
-Type Admin for the name and then click on the Permissions tab. In the permissions tab select all the permissions under Tickets, Tasks and Knowledgable. After that click Add Role.
+Type Admin for the name and then click on the Permissions tab. In the permissions tab select all the permissions under Tickets, Tasks, and Knowledgable. After that click Add Role.
 
 <img width="1182" alt="Screenshot 2025-05-01 at 3 16 44 PM" src="https://github.com/user-attachments/assets/035324db-bbe9-4567-b64c-5ad3d13c1ad2" />
 
@@ -79,7 +79,7 @@ Select the Teams tab and click Select Team and choose the Online Education Team,
 <img width="956" alt="Screenshot 2025-06-28 at 7 45 02 PM" src="https://github.com/user-attachments/assets/63a74d84-4030-4c31-8292-4763f8f45956" />
 
 
-I'm going to create another Agent. Click Add New Agent. For the name I put Joan Miller, a fake email, and the username Joan. 
+I'm now going to create another Agent. Click Add New Agent. For the name I put Joan Miller, a fake email, and the username Joan. 
 
 
 <img width="960" alt="Screenshot 2025-06-28 at 7 47 46 PM" src="https://github.com/user-attachments/assets/bf6b4b71-1362-4d8a-8196-235f52b663e7" />
@@ -96,7 +96,7 @@ Click the Access tab and for Select Department, choose Support. For Select Role 
 
 <img width="1440" alt="Screenshot 2025-06-28 at 7 53 33 PM" src="https://github.com/user-attachments/assets/b7214dcb-34b0-492e-80e5-f714ce38c26a" />
 
-Click Permissions and for users make sure that Delete is unchecked and do the same for Organization. Make Joan part of the Online Education Team aswell, click Create.
+Click Permissions and for Users make sure that Delete is unchecked and do the same for Organization. Make Joan part of the Online Education Team aswell, click Create.
 
 
 <img width="960" alt="Screenshot 2025-06-28 at 7 57 54 PM" src="https://github.com/user-attachments/assets/df3f1af9-f27e-4043-8ae2-56f58acdc7d5" />
@@ -122,7 +122,7 @@ For the name I put Major, set the Grace Period to 1 hour, and the schedule to 24
 
 <img width="959" alt="Screenshot 2025-05-01 at 7 09 59 PM" src="https://github.com/user-attachments/assets/c1a87c8b-eddc-4f3a-85ef-bf9141b461a9" />
 
-Click Add a New SLA Plan. I put Modereate as the name, set the Grace Period to 4 hours, and the schedule to 24/7. Click Add Plan.
+Click Add a New SLA Plan. Set the name to Modereate, set the Grace Period to 4 hours, and the schedule to 24/7. Click Add Plan.
 
 <img width="957" alt="Screenshot 2025-05-01 at 7 12 26 PM" src="https://github.com/user-attachments/assets/d55d1c2d-6c81-4c7c-bd26-74b0dfba2e77" />
 
@@ -146,7 +146,7 @@ Select Help Topics tab and click Add a New Help Topic. Put Password Reset as the
 
 <img width="958" alt="Screenshot 2025-05-01 at 7 36 15 PM" src="https://github.com/user-attachments/assets/4dc0b44c-f07c-4c80-ab72-f35e95c120fe" />
 
-Click the Help Topics and select Add a New Help Topic. This will be out last Help Topic, put Other as the Topic and the Parent Topic as General Inquiry. Click Add Topic. Now our ticketing System is now configured!
+Click the Help Topics and select Add a New Help Topic. This will be out last Help Topic, put Other as the Topic and the Parent Topic as General Inquiry. Click Add Topic. Our ticketing System is now configured!
 
 
 
